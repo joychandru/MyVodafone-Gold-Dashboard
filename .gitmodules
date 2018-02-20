@@ -1,0 +1,6 @@
+[submodule "MyVodafone-Gold-CommonsLibrary"]
+	path = MyVodafone-Gold-CommonsLibrary
+	url = https://github.com/joychandru/MyVodafone-Gold-CommonsLibrary.git
+[submodule "MyVodafone-Gold-PaymentLibrary"]
+	path = MyVodafone-Gold-PaymentLibrary
+	url = https://github.com/joychandru/MyVodafone-Gold-PaymentLibrary.git
